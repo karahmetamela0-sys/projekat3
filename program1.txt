@@ -1,3 +1,4 @@
 testiramo github
 
 ovo radim na test grani i testiram logovanje - vjezba
+dodato testiranje i passworda 
